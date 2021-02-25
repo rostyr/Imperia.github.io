@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu+Condensed');
+body{
+	
+	background-color: #222;
+
+	margin: 0;
+
+	font-family: 'Comfortaa', cursive;
+
+	line-height: 1.5;
+
+	letter-spacing: 3px;
+
+	font-size: 18px;
+
+}
+
+
+div{
+
+	width: 100%;
+
+	max-width: 1200px;
+
+	margin: 0 auto;
+
+	color: #ea7208;
+
+}
+
+
+.menu {
+
+	text-align: center;
+
+    list-style-type: none;
+
+    margin: 0;
+
+    padding: 0;
+
+}
+
+.menu a {
+
+	text-decoration: none;
+
+	font-family: 'Lobster', cursive;
+
+	font-size: 24px;
+
+	color: #ea7208;
+
+	display: inline-block;
+
+	padding: 10px 20px;
+
+	background-color: #151515;
+
+	border-radius: 6px;
+
+	border-bottom: 5px solid #000;
+
+}
+
+.menu li{
+
+	display: inline-block;
+
+}
