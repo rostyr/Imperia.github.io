@@ -1,0 +1,28 @@
+body{
+	
+	background-color: #222;
+
+	margin: 0;
+
+	font-family: 'Lobster', cursive;
+
+	line-height: 1.5;
+
+	letter-spacing: 3px;
+
+	font-size: 18px;
+	
+}
+
+
+div{
+
+	width: 100%;
+
+	max-width: 1200px;
+
+	margin: 0 auto;
+
+	color: #ffe300;
+
+}
